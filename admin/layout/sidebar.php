@@ -104,9 +104,9 @@
                             <ul>
                                 <li><a href="employee-list.php">Employee Lists</a></li>
                                 <li><a href="employee-details.php">Employee Details</a></li>
-                                <li><a href="departments.html">Departments</a></li>
-                                <li><a href="designations.html">Designations</a></li>
-                                <li><a href="policy.html">Policies</a></li>
+                                <li><a href="departments.php">Departments</a></li>
+                                <li><a href="designations.php">Designations</a></li>
+                                <li><a href="policy.php">Policies</a></li>
                             </ul>
                         </li>
 
