@@ -2,11 +2,11 @@
     <div class="main-header">
 
         <div class="header-left">
-            <a href="https://smarthr.dreamstechnologies.com/html/template/index.html" class="logo">
-                <img src="https://smarthr.dreamstechnologies.com/html/template/assets/img/logo.svg" alt="Logo">
+            <a href="admin/admin-dashboard.php" class="logo">
+                <img src="assets/img/logo/aayaninfotech_logo2.png" alt="Logo">
             </a>
-            <a href="https://smarthr.dreamstechnologies.com/html/template/index.html" class="dark-logo">
-                <img src="https://smarthr.dreamstechnologies.com/html/template/assets/img/logo-white.svg" alt="Logo">
+            <a href="admin/admin-dashboard.php" class="dark-logo">
+                <img src="assets/img/logo/aayaninfotech_logo2.png" alt="Logo">
             </a>
         </div>
 

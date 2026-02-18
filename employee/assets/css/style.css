@@ -28363,3 +28363,212 @@ span.flatpickr-weekday {
 /* End:: swiper js */
 
 /*# sourceMappingURL=style.css.map */
+/* Wrapper */
+.rx-org-wrapper {
+  background: #f4f6fb;
+  padding: 25px;
+  position: relative;
+  border-radius: 12px;
+  overflow: hidden;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+/* Topbar */
+.rx-org-topbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 30px;
+  flex-wrap: wrap;
+  gap: 15px;
+}
+
+/* Search */
+.rx-org-search input {
+  padding: 10px 15px;
+  border-radius: 8px;
+  border: 1px solid #dcdcdc;
+  width: 250px;
+  outline: none;
+  transition: 0.3s;
+}
+
+.rx-org-search input:focus {
+  border-color: #7c5cff;
+  box-shadow: 0 0 0 3px rgba(124,92,255,0.1);
+}
+
+/* Nav Buttons */
+.rx-org-nav {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.rx-btn {
+  padding: 8px 14px;
+  border-radius: 8px;
+  border: 1px solid #ddd;
+  background: white;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.rx-btn:hover {
+  background: #f2f2f2;
+}
+
+.rx-btn.active {
+  background: #7c5cff;
+  color: white;
+  border-color: #7c5cff;
+}
+
+/* Toggle */
+.rx-org-toggle {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+/* Switch */
+.rx-switch {
+  position: relative;
+  display: inline-block;
+  width: 40px;
+  height: 20px;
+}
+
+.rx-switch input {
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+.rx-slider {
+  position: absolute;
+  cursor: pointer;
+  background-color: #ccc;
+  border-radius: 20px;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  transition: .4s;
+}
+
+.rx-slider:before {
+  position: absolute;
+  content: "";
+  height: 14px;
+  width: 14px;
+  left: 3px;
+  bottom: 3px;
+  background: white;
+  border-radius: 50%;
+  transition: .4s;
+}
+
+.rx-switch input:checked + .rx-slider {
+  background-color: #7c5cff;
+}
+
+.rx-switch input:checked + .rx-slider:before {
+  transform: translateX(20px);
+}
+
+/* Scroll */
+.rx-org-scroll {
+  overflow-x: auto;
+  padding-bottom: 30px;
+}
+
+/* Tree */
+.rx-org-tree {
+  min-width: 1000px;
+  text-align: center;
+}
+
+/* Node */
+.rx-org-node {
+  display: inline-block;
+  position: relative;
+  margin: 0 30px;
+}
+
+/* Card */
+.rx-org-card {
+  background: white;
+  border-radius: 12px;
+  padding: 15px;
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+  transition: 0.3s;
+  min-width: 240px;
+}
+
+.rx-org-card:hover {
+  transform: translateY(-5px);
+}
+
+.rx-org-card img {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+
+.rx-org-card h4 {
+  margin: 0;
+  font-size: 15px;
+}
+
+.rx-org-card p {
+  margin: 2px 0;
+  font-size: 13px;
+  color: #777;
+}
+
+.rx-dept {
+  font-size: 11px;
+  font-weight: 600;
+  color: #7c5cff;
+}
+
+/* Level */
+.rx-org-level {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+  position: relative;
+}
+
+/* Connector Line */
+.rx-org-connector {
+  width: 2px;
+  height: 40px;
+  background: #ccc;
+  margin: 20px auto;
+}
+
+/* Zoom Controls */
+.rx-org-zoom {
+  position: absolute;
+  right: 15px;
+  top: 120px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.rx-org-zoom button {
+  width: 35px;
+  height: 35px;
+  border: none;
+  border-radius: 8px;
+  background: white;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  cursor: pointer;
+  font-size: 16px;
+}
