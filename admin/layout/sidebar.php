@@ -160,12 +160,11 @@
 
                         <li class="submenu">
                             <a href="javascript:void(0);">
-                                <i class="ti ti-cash"></i><span>PAYROLL</span>
+                                <i class="ti ti-cash"></i><span>Payroll</span>
                                 <span class="menu-arrow"></span>
                             </a>
                             <ul>
-                                <li><a href="employee-salary.php">My
-                                        Salary</a></li>
+                                <li><a href="employee-salary.php">Employee Salary</a></li>
                                 <li><a href="employee-payslip.php">Payslip</a>
                                 </li>
                                 <li><a href="employee-payroll-summary.php">Summary</a>
@@ -175,26 +174,6 @@
                     </ul>
                 </li>
 
-                <li>
-                    <ul>
-
-                        <li class="submenu">
-                            <a href="javascript:void(0);">
-                                <i class="ti ti-cash"></i><span>Organization</span>
-                                <span class="menu-arrow"></span>
-                            </a>
-                            <ul>
-                                <li><a href="employee-directory.php">Employee
-                                        Directory</a></li>
-                                <li><a href="organization-tree.php">Organization
-                                        Tree</a>
-                                </li>
-                                <li><a href="employee-documents.php">Documents</a>
-                                </li>
-                            </ul>
-                        </li>
-                    </ul>
-                </li>
                 <li>
                     <ul>
 
@@ -211,21 +190,6 @@
                     </ul>
                 </li>
 
-                <li>
-                    <ul>
-
-                        <li class="submenu">
-                            <a href="javascript:void(0);">
-                                <i class="ti ti-cash"></i><span>Engage</span>
-                                <span class="menu-arrow"></span>
-                            </a>
-                            <ul>
-                                <li><a href="employee-announcements.php">Announcements</a></li>
-                                <li><a href="employee-pools.php">Pools</a></li>
-                            </ul>
-                        </li>
-                    </ul>
-                </li>
 
 
             </ul>
