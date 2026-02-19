@@ -1973,7 +1973,7 @@
                             <i class="ti ti-x"></i>
                         </button>
                     </div>
-                    <form action="/html/template/index.html">
+                    <form action="#">
                         <div class="modal-body">
                             <div class="row">
                                 <div class="col-12">
@@ -2274,7 +2274,7 @@
                             <i class="ti ti-x"></i>
                         </button>
                     </div>
-                    <form action="/html/template/index.html">
+                    <form action="#">
                         <div class="modal-body pb-0">
                             <div class="row">
                                 <div class="col-md-12">

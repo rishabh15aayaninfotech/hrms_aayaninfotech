@@ -80,7 +80,7 @@
                         <nav>
                             <ol class="breadcrumb mb-0">
                                 <li class="breadcrumb-item">
-                                    <a href="https://smarthr.dreamstechnologies.com/html/template/index.html"><i
+                                    <a href="#"><i
                                             class="ti ti-smart-home"></i></a>
                                 </li>
                                 <li class="breadcrumb-item">

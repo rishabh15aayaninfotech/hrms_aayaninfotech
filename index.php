@@ -85,7 +85,7 @@
 					<div class="col-lg-5 col-md-12 col-sm-12">
 						<div class="row justify-content-center align-items-center vh-100 overflow-auto flex-wrap ">
 							<div class="col-md-7 mx-auto vh-100">
-								<form action="index.html" class="vh-100">
+								<form action="#" class="vh-100">
 									<div class="vh-100 d-flex flex-column justify-content-between p-4 pb-0">
 										<div class=" mx-auto mb-2 text-center">
 											<img src="assets/img/logo/aayaninfotech_logo2.png" width="200"
