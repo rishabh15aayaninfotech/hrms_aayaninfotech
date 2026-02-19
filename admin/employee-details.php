@@ -161,7 +161,7 @@
                                             </div>
                                             <div class="col-6">
                                                 <div>
-                                                    <a href="https://smarthr.dreamstechnologies.com/html/template/chat.html"
+                                                    <a href="#"
                                                         class="btn btn-primary w-100"><i
                                                             class="ti ti-message-heart me-1"></i>Message</a>
                                                 </div>

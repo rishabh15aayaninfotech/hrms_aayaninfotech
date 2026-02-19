@@ -1495,20 +1495,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="me-1">
-                        <a href="https://smarthr.dreamstechnologies.com/html/template/chat.html"
-                            class="btn btn-menubar position-relative">
-                            <i class="ti ti-brand-hipchat"></i>
-                            <span
-                                class="badge bg-info rounded-pill d-flex align-items-center justify-content-center header-badge">5</span>
-                        </a>
-                    </div>
-                    <div class="me-1">
-                        <a href="https://smarthr.dreamstechnologies.com/html/template/email.html"
-                            class="btn btn-menubar">
-                            <i class="ti ti-mail"></i>
-                        </a>
-                    </div>
+                    
                     <div class="me-1 notification_item">
                         <a href="#" class="btn btn-menubar position-relative me-1" id="notification_popup"
                             data-bs-toggle="dropdown">
