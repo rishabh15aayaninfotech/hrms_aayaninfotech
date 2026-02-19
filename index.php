@@ -122,7 +122,7 @@
 													</div>
 												</div>
 												<div class="text-end">
-													<a href="https://smarthr.dreamstechnologies.com/html/template/forgot-password-2.html"
+													<a href="#"
 														class="link-danger">Forgot
 														Password?</a>
 												</div>

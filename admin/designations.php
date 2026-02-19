@@ -513,7 +513,7 @@
                             <i class="ti ti-x"></i>
                         </button>
                     </div>
-                    <form action="https://smarthr.dreamstechnologies.com/html/template/designations.html">
+                    <form action="#">
                         <div class="modal-body pb-0">
                             <div class="row">
                                 <div class="col-md-12">
@@ -561,7 +561,7 @@
                             <i class="ti ti-x"></i>
                         </button>
                     </div>
-                    <form action="https://smarthr.dreamstechnologies.com/html/template/designations.html">
+                    <form action="#">
                         <div class="modal-body pb-0">
                             <div class="row">
                                 <div class="col-md-12">
@@ -611,7 +611,7 @@
                         </p>
                         <div class="d-flex justify-content-center">
                             <a href="javascript:void(0);" class="btn btn-light me-3" data-bs-dismiss="modal">Cancel</a>
-                            <a href="https://smarthr.dreamstechnologies.com/html/template/designations.html"
+                            <a href="#"
                                 class="btn btn-danger">Yes, Delete</a>
                         </div>
                     </div>

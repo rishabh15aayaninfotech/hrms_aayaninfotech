@@ -2,10 +2,10 @@
     <div class="main-header">
 
         <div class="header-left">
-            <a href="employee-dashboard.php" class="logo">
+            <a href="admin/admin-dashboard.php" class="logo">
                 <img src="assets/img/logo/aayaninfotech_logo2.png" alt="Logo">
             </a>
-            <a href="employee-dashboard.php" class="dark-logo">
+            <a href="admin/admin-dashboard.php" class="dark-logo">
                 <img src="assets/img/logo/aayaninfotech_logo2.png" alt="Logo">
             </a>
         </div>
@@ -783,46 +783,46 @@
                                     </a>
                                     <ul>
                                         <li><a
-                                                href="https://smarthr.dreamstechnologies.com/html/template/starter.html"><span>Starter</span></a>
+                                                href="#"><span>Starter</span></a>
                                         </li>
                                         <li><a
-                                                href="https://smarthr.dreamstechnologies.com/html/template/profile.html"><span>Profile</span></a>
+                                                href="#"><span>Profile</span></a>
                                         </li>
                                         <li><a
-                                                href="https://smarthr.dreamstechnologies.com/html/template/gallery.html"><span>Gallery</span></a>
+                                                href="#"><span>Gallery</span></a>
                                         </li>
                                         <li><a
-                                                href="https://smarthr.dreamstechnologies.com/html/template/search-result.html"><span>Search
+                                                href="#"><span>Search
                                                     Results</span></a></li>
                                         <li><a
-                                                href="https://smarthr.dreamstechnologies.com/html/template/timeline.html"><span>Timeline</span></a>
+                                                href="#"><span>Timeline</span></a>
                                         </li>
                                         <li><a
-                                                href="https://smarthr.dreamstechnologies.com/html/template/pricing.html"><span>Pricing</span></a>
+                                                href="#"><span>Pricing</span></a>
                                         </li>
                                         <li><a
-                                                href="https://smarthr.dreamstechnologies.com/html/template/coming-soon.html"><span>Coming
+                                                href="#"><span>Coming
                                                     Soon</span></a></li>
                                         <li><a
-                                                href="https://smarthr.dreamstechnologies.com/html/template/under-maintenance.html"><span>Under
+                                                href="#"><span>Under
                                                     Maintenance</span></a></li>
                                         <li><a
-                                                href="https://smarthr.dreamstechnologies.com/html/template/under-construction.html"><span>Under
+                                                href="#"><span>Under
                                                     Construction</span></a></li>
                                         <li><a
-                                                href="https://smarthr.dreamstechnologies.com/html/template/api-keys.html"><span>API
+                                                href="#"><span>API
                                                     Keys</span></a></li>
                                         <li><a
-                                                href="https://smarthr.dreamstechnologies.com/html/template/privacy-policy.html"><span>Privacy
+                                                href="#"><span>Privacy
                                                     Policy</span></a></li>
                                         <li><a
-                                                href="https://smarthr.dreamstechnologies.com/html/template/terms-condition.html"><span>Terms
+                                                href="#"><span>Terms
                                                     & Conditions</span></a></li>
                                         <li class="submenu">
                                             <a href="#"><span>Content</span> <span class="menu-arrow"></span></a>
                                             <ul>
                                                 <li><a
-                                                        href="https://smarthr.dreamstechnologies.com/html/template/pages.html">Pages</a>
+                                                        href="#"><span>Pages</span></a>
                                                 </li>
                                                 <li class="submenu">
                                                     <a href="javascript:void(0);">Blogs<span
@@ -1639,26 +1639,26 @@
                                 </div>
                                 <div class="card-body">
                                     <a class="dropdown-item d-inline-flex align-items-center p-0 py-2"
-                                        href="https://smarthr.dreamstechnologies.com/html/template/profile.html">
+                                        href="#">
                                         <i class="ti ti-user-circle me-1"></i>My Profile
                                     </a>
                                     <a class="dropdown-item d-inline-flex align-items-center p-0 py-2"
-                                        href="https://smarthr.dreamstechnologies.com/html/template/bussiness-settings.html">
+                                        href="#">
                                         <i class="ti ti-settings me-1"></i>Settings
                                     </a>
 
                                     <a class="dropdown-item d-inline-flex align-items-center p-0 py-2"
-                                        href="https://smarthr.dreamstechnologies.com/html/template/profile-settings.html">
+                                        href="#">
                                         <i class="ti ti-circle-arrow-up me-1"></i>My Account
                                     </a>
                                     <a class="dropdown-item d-inline-flex align-items-center p-0 py-2"
-                                        href="https://smarthr.dreamstechnologies.com/html/template/knowledgebase.html">
+                                        href="#">
                                         <i class="ti ti-question-mark me-1"></i>Knowledge Base
                                     </a>
                                 </div>
                                 <div class="card-footer py-1">
                                     <a class="dropdown-item d-inline-flex align-items-center p-0 py-2"
-                                        href="https://smarthr.dreamstechnologies.com/html/template/login.html"><i
+                                        href="#"><i
                                             class="ti ti-login me-2"></i>Logout</a>
                                 </div>
                             </div>
@@ -1675,12 +1675,12 @@
                 <i class="fa fa-ellipsis-v"></i>
             </a>
             <div class="dropdown-menu dropdown-menu-end">
-                <a class="dropdown-item" href="https://smarthr.dreamstechnologies.com/html/template/profile.html">My
+                <a class="dropdown-item" href="#">My
                     Profile</a>
                 <a class="dropdown-item"
-                    href="https://smarthr.dreamstechnologies.com/html/template/profile-settings.html">Settings</a>
+                    href="#">Settings</a>
                 <a class="dropdown-item"
-                    href="https://smarthr.dreamstechnologies.com/html/template/login.html">Logout</a>
+                    href="#">Logout</a>
             </div>
         </div>
         <!-- /Mobile Menu -->

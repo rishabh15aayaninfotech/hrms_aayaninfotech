@@ -77,7 +77,7 @@
                 <div class="d-md-flex d-block align-items-center justify-content-between page-breadcrumb mb-3">
                     <div class="my-auto mb-2">
                         <h6 class="fw-medium d-inline-flex align-items-center mb-3 mb-sm-0"><a
-                                href="https://smarthr.dreamstechnologies.com/html/template/employees.html">
+                                href="#">
                                 <i class="ti ti-arrow-left me-2"></i>Employee Details</a>
                         </h6>
                     </div>
@@ -651,14 +651,14 @@
                                                                     <div class="card-body">
                                                                         <div
                                                                             class="d-flex align-items-center pb-3 mb-3 border-bottom">
-                                                                            <a href="https://smarthr.dreamstechnologies.com/html/template/project-details.html"
+                                                                            <a href="#"
                                                                                 class="flex-shrink-0 me-2">
                                                                                 <img src="https://smarthr.dreamstechnologies.com/html/template/assets/img/social/project-03.svg"
                                                                                     alt="Img">
                                                                             </a>
                                                                             <div>
                                                                                 <h6 class="mb-1"><a
-                                                                                        href="https://smarthr.dreamstechnologies.com/html/template/project-details.html">World
+                                                                                        href="#">World
                                                                                         Health</a></h6>
                                                                                 <div class="d-flex align-items-center">
                                                                                     <p class="mb-0 fs-13">8 tasks</p>
@@ -700,14 +700,14 @@
                                                                     <div class="card-body">
                                                                         <div
                                                                             class="d-flex align-items-center pb-3 mb-3 border-bottom">
-                                                                            <a href="https://smarthr.dreamstechnologies.com/html/template/project-details.html"
+                                                                            <a href="#"
                                                                                 class="flex-shrink-0 me-2">
                                                                                 <img src="https://smarthr.dreamstechnologies.com/html/template/assets/img/social/project-01.svg"
                                                                                     alt="Img">
                                                                             </a>
                                                                             <div>
                                                                                 <h6 class="mb-1 text-truncate"><a
-                                                                                        href="https://smarthr.dreamstechnologies.com/html/template/project-details.html">Hospital
+                                                                                        href="#">Hospital
                                                                                         Administration</a></h6>
                                                                                 <div class="d-flex align-items-center">
                                                                                     <p class="mb-0 fs-13">8 tasks</p>
@@ -755,7 +755,7 @@
                                                                         <div class="row align-items-center">
                                                                             <div class="col-md-8">
                                                                                 <div class="d-flex align-items-center">
-                                                                                    <a href="https://smarthr.dreamstechnologies.com/html/template/project-details.html"
+                                                                                    <a href="#"
                                                                                         class="flex-shrink-0 me-2">
                                                                                         <img src="https://smarthr.dreamstechnologies.com/html/template/assets/img/products/product-05.jpg"
                                                                                             class="img-fluid rounded-circle"
@@ -763,7 +763,7 @@
                                                                                     </a>
                                                                                     <div>
                                                                                         <h6 class="mb-1"><a
-                                                                                                href="https://smarthr.dreamstechnologies.com/html/template/project-details.html">Dell
+                                                                                                href="#">Dell
                                                                                                 Laptop - #343556656</a>
                                                                                         </h6>
                                                                                         <div
@@ -829,7 +829,7 @@
                                                                         <div class="row align-items-center">
                                                                             <div class="col-md-8">
                                                                                 <div class="d-flex align-items-center">
-                                                                                    <a href="https://smarthr.dreamstechnologies.com/html/template/project-details.html"
+                                                                                    <a href="#"
                                                                                         class="flex-shrink-0 me-2">
                                                                                         <img src="https://smarthr.dreamstechnologies.com/html/template/assets/img/products/product-06.jpg"
                                                                                             class="img-fluid rounded-circle"
@@ -837,7 +837,7 @@
                                                                                     </a>
                                                                                     <div>
                                                                                         <h6 class="mb-1"><a
-                                                                                                href="https://smarthr.dreamstechnologies.com/html/template/project-details.html">Bluetooth
+                                                                                                href="#">Bluetooth
                                                                                                 Mouse - #478878</a></h6>
                                                                                         <div
                                                                                             class="d-flex align-items-center">
@@ -925,7 +925,7 @@
                             <i class="ti ti-x"></i>
                         </button>
                     </div>
-                    <form action="https://smarthr.dreamstechnologies.com/html/template/employees-grid.html">
+                    <form action="#">
                         <div class="contact-grids-tab">
                             <ul class="nav nav-underline" id="myTab2" role="tablist">
                                 <li class="nav-item" role="presentation">
@@ -1623,7 +1623,7 @@
                             <i class="ti ti-x"></i>
                         </button>
                     </div>
-                    <form action="https://smarthr.dreamstechnologies.com/html/template/employee-details.html">
+                    <form action="#">
                         <div class="modal-body pb-0">
                             <div class="row">
                                 <div class="col-md-6">
@@ -1706,7 +1706,7 @@
                             <i class="ti ti-x"></i>
                         </button>
                     </div>
-                    <form action="https://smarthr.dreamstechnologies.com/html/template/employee-details.html">
+                    <form action="#">
                         <div class="modal-body pb-0">
                             <div class="border-bottom mb-3 ">
                                 <div class="row">
@@ -1788,7 +1788,7 @@
                             <i class="ti ti-x"></i>
                         </button>
                     </div>
-                    <form action="https://smarthr.dreamstechnologies.com/html/template/employee-details.html">
+                    <form action="#">
                         <div class="modal-body pb-0">
                             <div class="row">
                                 <div class="col-md-12">
@@ -1840,7 +1840,7 @@
                             <i class="ti ti-x"></i>
                         </button>
                     </div>
-                    <form action="https://smarthr.dreamstechnologies.com/html/template/employee-details.html">
+                    <form action="#">
                         <div class="modal-body pb-0">
                             <div class="row">
                                 <div class="col-md-12">
@@ -1898,7 +1898,7 @@
                             <i class="ti ti-x"></i>
                         </button>
                     </div>
-                    <form action="https://smarthr.dreamstechnologies.com/html/template/employee-details.html">
+                    <form action="#">
                         <div class="modal-body pb-0">
                             <div class="row">
                                 <div class="col-md-6">
@@ -1962,7 +1962,7 @@
                             <i class="ti ti-x"></i>
                         </button>
                     </div>
-                    <form action="https://smarthr.dreamstechnologies.com/html/template/employee-details.html">
+                    <form action="#">
                         <div class="modal-body pb-0">
                             <div class="row">
                                 <div class="col-md-6">
@@ -2039,11 +2039,11 @@
                             <div>
                                 <div class="row g-2">
                                     <div class="col-6">
-                                        <a href="https://smarthr.dreamstechnologies.com/html/template/employees.html"
+                                        <a href="#"
                                             class="btn btn-dark w-100">Back to List</a>
                                     </div>
                                     <div class="col-6">
-                                        <a href="https://smarthr.dreamstechnologies.com/html/template/employee-details.html"
+                                        <a href="#"
                                             class="btn btn-primary w-100">Detail Page</a>
                                     </div>
                                 </div>
@@ -2066,7 +2066,7 @@
                             <i class="ti ti-x"></i>
                         </button>
                     </div>
-                    <form action="https://smarthr.dreamstechnologies.com/html/template/employee-details.html">
+                    <form action="#">
                         <div class="modal-body pb-0">
                             <div class="border-bottom mb-4">
                                 <h5 class="mb-3">Basic Salary Information</h5>
@@ -2307,7 +2307,7 @@
                             <i class="ti ti-x"></i>
                         </button>
                     </div>
-                    <form action="https://smarthr.dreamstechnologies.com/html/template/employee-details.html">
+                    <form action="#">
                         <div class="modal-body pb-0">
                             <div class="row">
                                 <div class="col-md-12">
@@ -2342,7 +2342,7 @@
                         </p>
                         <div class="d-flex justify-content-center">
                             <a href="javascript:void(0);" class="btn btn-light me-3" data-bs-dismiss="modal">Cancel</a>
-                            <a href="https://smarthr.dreamstechnologies.com/html/template/employee-details.html"
+                            <a href="#"
                                 class="btn btn-danger">Yes, Delete</a>
                         </div>
                     </div>

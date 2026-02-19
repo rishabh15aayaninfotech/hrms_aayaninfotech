@@ -1,13 +1,13 @@
 <div class="sidebar" id="sidebar">
     <!-- Logo -->
     <div class="sidebar-logo">
-        <a href="employee-dashboard.php" class="logo logo-normal">
+        <a href="admin-dashboard.php" class="logo logo-normal">
             <img src="assets/img/logo/aayaninfotech_logo2.png" alt="Logo">
         </a>
-        <a href="employee-dashboard.php" class="logo-small">
+        <a href="admin-dashboard.php" class="logo-small">
             <img src="assets/img/logo/aayaninfotech_logo2.png" alt="Logo">
         </a>
-        <a href="employee-dashboard.php" class="dark-logo">
+        <a href="admin-dashboard.php" class="dark-logo">
             <img src="assets/img/logo/aayaninfotech_logo2.png" alt="Logo">
         </a>
     </div>

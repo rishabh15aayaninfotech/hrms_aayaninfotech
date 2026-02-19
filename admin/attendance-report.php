@@ -81,9 +81,9 @@
                     <div class="d-flex my-xl-auto right-content align-items-center flex-wrap ">
                         <div class="me-2 mb-2">
                             <div class="d-flex align-items-center border bg-white rounded p-1 me-2 icon-list">
-                                <a href="https://smarthr.dreamstechnologies.com/html/template/attendance-employee.html"
+                                <a href="#"
                                     class="btn btn-icon btn-sm  me-1"><i class="ti ti-brand-days-counter"></i></a>
-                                <a href="https://smarthr.dreamstechnologies.com/html/template/attendance-admin.html"
+                                <a href="#"
                                     class="btn btn-icon btn-sm active bg-primary text-white"><i
                                         class="ti ti-calendar-event"></i></a>
                             </div>
@@ -734,7 +734,7 @@
                             <i class="ti ti-x"></i>
                         </button>
                     </div>
-                    <form action="https://smarthr.dreamstechnologies.com/html/template/attendance-admin.html">
+                    <form action="#">
                         <div class="modal-body pb-0">
                             <div class="row">
                                 <div class="col-md-12">
@@ -1026,6 +1026,5 @@
 </body>
 
 
-<!-- Mirrored from smarthr.dreamstechnologies.com/html/template/attendance-admin.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 27 Nov 2025 07:00:01 GMT -->
 
 </html>
