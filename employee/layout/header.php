@@ -2,10 +2,10 @@
     <div class="main-header">
 
         <div class="header-left">
-            <a href="employee/employee-dashboard.php" class="logo">
+            <a href="employee-dashboard.php" class="logo">
                 <img src="assets/img/logo/aayaninfotech_logo2.png" alt="Logo">
             </a>
-            <a href="employee/employee-dashboard.php" class="dark-logo">
+            <a href="employee-dashboard.php" class="dark-logo">
                 <img src="assets/img/logo/aayaninfotech_logo2.png" alt="Logo">
             </a>
         </div>
