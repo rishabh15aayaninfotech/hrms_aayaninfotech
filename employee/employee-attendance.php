@@ -82,10 +82,10 @@
                     <div class="d-flex my-xl-auto right-content align-items-center flex-wrap ">
                         <div class="me-2 mb-2">
                             <div class="d-flex align-items-center border bg-white rounded p-1 me-2 icon-list">
-                                <a href="https://smarthr.dreamstechnologies.com/html/template/attendance-admin.html"
+                                <a href="#"
                                     class="btn btn-icon btn-sm active bg-primary text-white me-1"><i
                                         class="ti ti-brand-days-counter"></i></a>
-                                <a href="https://smarthr.dreamstechnologies.com/html/template/attendance-admin.html"
+                                <a href="#"
                                     class="btn btn-icon btn-sm"><i class="ti ti-calendar-event"></i></a>
                             </div>
                         </div>

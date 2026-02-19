@@ -360,7 +360,7 @@
 										<h5 class="mb-1">Next Holiday</h5>
 										<p class="text-gray-9">Diwali, 15 Sep 2025</p>
 									</div>
-									<a href="https://smarthr.dreamstechnologies.com/html/template/holidays.html"
+									<a href="#"
 										class="btn btn-white btn-sm px-3">View All</a>
 								</div>
 							</div>
@@ -1209,7 +1209,7 @@
 										<h5 class="mb-1">Next Holiday</h5>
 										<p class="text-gray-9">Diwali, 15 Sep 2025</p>
 									</div>
-									<a href="https://smarthr.dreamstechnologies.com/html/template/holidays.html"
+									<a href="#"
 										class="btn btn-white btn-sm px-3">View All</a>
 								</div>
 							</div>
@@ -1235,7 +1235,7 @@
 							<i class="ti ti-x"></i>
 						</button>
 					</div>
-					<form action="https://smarthr.dreamstechnologies.com/html/template/employee-dashboard.html">
+					<form action="#">
 						<div class="modal-body pb-0">
 							<div class="row">
 								<div class="col-md-12">
@@ -1325,7 +1325,7 @@
 							<i class="ti ti-x"></i>
 						</button>
 					</div>
-					<form action="https://smarthr.dreamstechnologies.com/html/template/employee-dashboard.html">
+					<form action="#">
 						<div class="modal-body">
 							<div class="row">
 								<div class="col-12">
@@ -1482,7 +1482,7 @@
 						</p>
 						<div class="d-flex justify-content-center">
 							<a href="javascript:void(0);" class="btn btn-light me-3" data-bs-dismiss="modal">Cancel</a>
-							<a href="https://smarthr.dreamstechnologies.com/html/template/employee-dashboard.html"
+							<a href="#"
 								class="btn btn-danger">Yes, Delete</a>
 						</div>
 					</div>

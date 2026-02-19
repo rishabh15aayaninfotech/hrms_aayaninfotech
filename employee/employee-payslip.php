@@ -83,7 +83,7 @@
 						<nav>
 							<ol class="breadcrumb mb-0">
 								<li class="breadcrumb-item">
-									<a href="https://smarthr.dreamstechnologies.com/html/template/index.html"><i class="ti ti-smart-home"></i></a>
+									<a href="#"><i class="ti ti-smart-home"></i></a>
 								</li>
 								<li class="breadcrumb-item">
 									HR
@@ -285,5 +285,4 @@
 </body>
 
 
-<!-- Mirrored from smarthr.dreamstechnologies.com/html/template/payslip.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 27 Nov 2025 07:00:05 GMT -->
 </html>
