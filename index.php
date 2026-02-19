@@ -78,7 +78,7 @@
 						<div
 							class="d-lg-flex align-items-center justify-content-center d-none flex-wrap vh-100 bg-primary-transparent">
 							<div>
-								<img src="assets/img/login/company-img.webp" class="img-fluid" alt="Img">
+								<img src="assets/img/login/company-img.jpg" class="img-fluid" alt="Img">
 							</div>
 						</div>
 					</div>

@@ -2,10 +2,10 @@
     <div class="main-header">
 
         <div class="header-left">
-            <a href="admin/admin-dashboard.php" class="logo">
+            <a href="employee/employee-dashboard.php" class="logo">
                 <img src="assets/img/logo/aayaninfotech_logo2.png" alt="Logo">
             </a>
-            <a href="admin/admin-dashboard.php" class="dark-logo">
+            <a href="employee/employee-dashboard.php" class="dark-logo">
                 <img src="assets/img/logo/aayaninfotech_logo2.png" alt="Logo">
             </a>
         </div>
@@ -35,73 +35,7 @@
                             <kbd>CTRL + / </kbd>
                         </span>
                     </div>
-                    <!-- /Search -->
-                    <div class="dropdown crm-dropdown">
-                        <a href="#" class="btn btn-menubar me-1" data-bs-toggle="dropdown">
-                            <i class="ti ti-layout-grid"></i>
-                        </a>
-                        <div class="dropdown-menu dropdown-lg dropdown-menu-start">
-                            <div class="card mb-0 border-0 shadow-none">
-                                <div class="card-header">
-                                    <h4>CRM</h4>
-                                </div>
-                                <div class="card-body pb-1">
-                                    <div class="row">
-                                        <div class="col-sm-6">
-                                            <a href="https://smarthr.dreamstechnologies.com/html/template/contacts.html"
-                                                class="d-flex align-items-center justify-content-between p-2 crm-link mb-3">
-                                                <span class="d-flex align-items-center me-3">
-                                                    <i class="ti ti-user-shield text-default me-2"></i>Contacts
-                                                </span>
-                                                <i class="ti ti-arrow-right"></i>
-                                            </a>
-                                            <a href="https://smarthr.dreamstechnologies.com/html/template/deals-grid.html"
-                                                class="d-flex align-items-center justify-content-between p-2 crm-link mb-3">
-                                                <span class="d-flex align-items-center me-3">
-                                                    <i class="ti ti-heart-handshake text-default me-2"></i>Deals
-                                                </span>
-                                                <i class="ti ti-arrow-right"></i>
-                                            </a>
-                                            <a href="https://smarthr.dreamstechnologies.com/html/template/pipeline.html"
-                                                class="d-flex align-items-center justify-content-between p-2 crm-link mb-3">
-                                                <span class="d-flex align-items-center me-3">
-                                                    <i class="ti ti-timeline-event-text text-default me-2"></i>Pipeline
-                                                </span>
-                                                <i class="ti ti-arrow-right"></i>
-                                            </a>
-                                        </div>
-                                        <div class="col-sm-6">
-                                            <a href="https://smarthr.dreamstechnologies.com/html/template/companies-grid.html"
-                                                class="d-flex align-items-center justify-content-between p-2 crm-link mb-3">
-                                                <span class="d-flex align-items-center me-3">
-                                                    <i class="ti ti-building text-default me-2"></i>Companies
-                                                </span>
-                                                <i class="ti ti-arrow-right"></i>
-                                            </a>
-                                            <a href="https://smarthr.dreamstechnologies.com/html/template/leads-grid.html"
-                                                class="d-flex align-items-center justify-content-between p-2 crm-link mb-3">
-                                                <span class="d-flex align-items-center me-3">
-                                                    <i class="ti ti-user-check text-default me-2"></i>Leads
-                                                </span>
-                                                <i class="ti ti-arrow-right"></i>
-                                            </a>
-                                            <a href="https://smarthr.dreamstechnologies.com/html/template/activity.html"
-                                                class="d-flex align-items-center justify-content-between p-2 crm-link mb-3">
-                                                <span class="d-flex align-items-center me-3">
-                                                    <i class="ti ti-activity text-default me-2"></i>Activities
-                                                </span>
-                                                <i class="ti ti-arrow-right"></i>
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <a href="https://smarthr.dreamstechnologies.com/html/template/profile-settings.html"
-                        class="btn btn-menubar">
-                        <i class="ti ti-settings-cog"></i>
-                    </a>
+                    
                 </div>
 
                 <!-- Horizontal Single -->
@@ -1451,50 +1385,7 @@
                             <i class="ti ti-maximize"></i>
                         </a>
                     </div>
-                    <div class="dropdown me-1">
-                        <a href="#" class="btn btn-menubar" data-bs-toggle="dropdown">
-                            <i class="ti ti-layout-grid-remove"></i>
-                        </a>
-                        <div class="dropdown-menu dropdown-menu-end">
-                            <div class="card mb-0 border-0 shadow-none">
-                                <div class="card-header">
-                                    <h4>Applications</h4>
-                                </div>
-                                <div class="card-body">
-                                    <a href="https://smarthr.dreamstechnologies.com/html/template/calendar.html"
-                                        class="d-block pb-2">
-                                        <span class="avatar avatar-md bg-transparent-dark me-2"><i
-                                                class="ti ti-calendar text-gray-9"></i></span>Calendar
-                                    </a>
-                                    <a href="https://smarthr.dreamstechnologies.com/html/template/todo.html"
-                                        class="d-block py-2">
-                                        <span class="avatar avatar-md bg-transparent-dark me-2"><i
-                                                class="ti ti-subtask text-gray-9"></i></span>To Do
-                                    </a>
-                                    <a href="https://smarthr.dreamstechnologies.com/html/template/notes.html"
-                                        class="d-block py-2">
-                                        <span class="avatar avatar-md bg-transparent-dark me-2"><i
-                                                class="ti ti-notes text-gray-9"></i></span>Notes
-                                    </a>
-                                    <a href="https://smarthr.dreamstechnologies.com/html/template/file-manager.html"
-                                        class="d-block py-2">
-                                        <span class="avatar avatar-md bg-transparent-dark me-2"><i
-                                                class="ti ti-folder text-gray-9"></i></span>File Manager
-                                    </a>
-                                    <a href="https://smarthr.dreamstechnologies.com/html/template/kanban-view.html"
-                                        class="d-block py-2">
-                                        <span class="avatar avatar-md bg-transparent-dark me-2"><i
-                                                class="ti ti-layout-kanban text-gray-9"></i></span>Kanban
-                                    </a>
-                                    <a href="https://smarthr.dreamstechnologies.com/html/template/invoices.html"
-                                        class="d-block py-2 pb-0">
-                                        <span class="avatar avatar-md bg-transparent-dark me-2"><i
-                                                class="ti ti-file-invoice text-gray-9"></i></span>Invoices
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+                    
                     
                     <div class="me-1 notification_item">
                         <a href="#" class="btn btn-menubar position-relative me-1" id="notification_popup"
@@ -1658,7 +1549,7 @@
                                 </div>
                                 <div class="card-footer py-1">
                                     <a class="dropdown-item d-inline-flex align-items-center p-0 py-2"
-                                        href="#"><i
+                                        href="/hrms/index.php"><i
                                             class="ti ti-login me-2"></i>Logout</a>
                                 </div>
                             </div>
@@ -1680,7 +1571,7 @@
                 <a class="dropdown-item"
                     href="#">Settings</a>
                 <a class="dropdown-item"
-                    href="#">Logout</a>
+                    href="/hrms/index.php">Logout</a>
             </div>
         </div>
         <!-- /Mobile Menu -->
