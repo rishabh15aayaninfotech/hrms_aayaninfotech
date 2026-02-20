@@ -14902,6 +14902,7 @@ button.swal2-cancel {
   display: block;
   padding: 8px 8px 8px 40px;
   padding-left: 30px;
+  color: #000;
 }
 .sidebar .sidebar-menu > ul > li ul {
   display: block;
